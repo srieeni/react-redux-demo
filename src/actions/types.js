@@ -1,0 +1,4 @@
+export const SUBMIT_ORDER = "SUBMIT_ORDER";
+export const ADD_ORDER = "ADD_ORDER";
+export const RESET_ORDER = "RESET_ORDER";
+export const UPDATE_ORDER_AS_MIXED = "UPDATE_ORDER_AS_MIXED";
